@@ -1,59 +1,9 @@
-|                                                                           |     |                                           |
-| ------------------------------------------------------------------------- | --- | ----------------------------------------- |
-| [sich kümmern um](#sich-kümmern-um)                                       | A   | турбувати; засмучувати                    |
-| [sich ausruhen von](#sich-ausruhen-von)                                   | D   | відпочивати                               |
-| [sich bedanken für](#sich-bedanken-für)                                   | A   | дякувати                                  |
-| [sich beschweren über](#sich-beschweren-über)                             | A   | скаржитися                                |
-| [sich bewerben um](#sich-bewerben-um)                                     | A   | добиватися подаватися                     |
-| [sich erkundigen nach](#sich-erkundigen-nach)                             | D   | цікавитися; наводити довідки про          |
-| [sich freuen auf, über](#sich-freuen-auf-über)                            | A   | радіти                                    |
-| [sich gewöhnen an](#sich-gewöhnen-an)                                     | A   | звикати                                   |
-| [sich interessieren für](#sich-interessieren-für)                         | A   | цікавитися                                |
-| [sich streiten um](#sich-streiten-um)                                     | A   | сваритися                                 |
-| [sich verabreden mit](#sich-verabreden-mit)                               | D   | домовлятися                               |
-| [sich verlieben in](#sich-verlieben-in)                                   | A   | закохуватися                              |
-| [sich wundern über](#sich-wundern-über)                                   | A   | дивуватися                                |
-| [sich/jemanden/etwas ändern an](#sichjemandenetwas-ändern-an)             | A   | змінюватися                               |
-| [sich/jemanden/etwas anmelden für](#sichjemandenetwas-anmelden-für)       | A   | записатися                                |
-| [sich/jemanden ärgern über](#sichjemanden-ärgern-über)                    | A   | гніватися                                 |
-| [sich/jemanden beruhigen von](#sichjemanden-beruhigen-von)                | D   | заспокоюватися                            |
-| [sich/jemanden beschäftigen mit](#sichjemanden-beschäftigen-mit)          | D   | займатися                                 |
-| [sich/jemanden erinnern an](#sichjemanden-erinnern-an)                    | A   | пам'ятати                                 |
-| [sich/jemanden treffen mit](#sichjemanden-treffen-mit)                    | D   | зустрічатися                              |
-| [sich/jemanden verabschieden von](#sichjemanden-verabschieden-von)        | D   | прощатися                                 |
-| [sich/jemanden verletzen an](#sichjemanden-verletzen-an)                  | D   | травмуватися                              |
-| [sich/jemanden/etwas verstehen mit](#sichjemandenetwas-verstehen-mit)     | D   | розуміти один одного                      |
-| [sich/jemanden/etwas vorbereiten auf](#sichjemandenetwas-vorbereiten-auf) |     | готуватися                                |
-| [sich aufregen über](#sich-aufregen-über)                                 | A   | дратуватися; нервуватися                  |
-| [sich melden bei](#sich-melden-bei)                                       | A   | давати про себе знати                     |
-| [sich/jemanden entschuldigen](#sichjemanden-entschuldigen)                |     | пробачати                                 |
-| [sich/jemanden/etwas bewegen](#sichjemandenetwas-bewegen)                 |     | рухатися                                  |
-| [sich/jemanden duschen](#sichjemanden-duschen)                            |     | приймати душ                              |
-| [sich/jemanden/etwas verteidigen](#sichjemandenetwas-verteidigen)         |     | захищатися                                |
-| [sich/jemanden/etwas vorstellen](#sichjemandenetwas-vorstellen)           |     | уявляти                                   |
-| [sich (etwas) abtrocknen](#sich-etwas-abtrocknen)                         |     | витиратися; висушуватися                  |
-| [sich etwas anhören](#sich-etwas-anhören)                                 |     | звучати                                   |
-| [sich (etwas) ansehen/anschauen](#sich-etwas-ansehenanschauen)            |     | розглядати                                |
-| [sich (etwas) anziehen](#sich-etwas-anziehen)                             |     | одягатися                                 |
-| [sich etwas ausdenken](#sich-etwas-ausdenken)                             |     | придумувати                               |
-| [sich etwas leisten](#sich-etwas-leisten)                                 |     | дозволяти собі                            |
-| [sich etwas merken](#sich-etwas-merken)                                   |     | запам'ятати                               |
-| [sich (etwas) schminken](#sich-etwas-schminken)                           |     | малюватися; підфарбовуватися; гримуватися |
-| [sich etwas überlegen](#sich-etwas-überlegen)                             |     | обмірковувати                             |
-| [sich (etwas) waschen](#sich-etwas-waschen)                               |     | митися; умиватися                         |
-| [sich beeilen](#sich-beeilen)                                             |     | поспішати                                 |
-| [sich befinden](#sich-befinden)                                           |     | знаходитися                               |
-| [sich erkälten](#sich-erkälten)                                           |     | застудитися                               |
-| [sich irren](#sich-irren)                                                 |     | помилятися                                |
-| [sich sonnen](#sich-sonnen)                                               |     | засмагати                                 |
 
----
+# Sich
 
 ## sich kümmern um
 
-`турбуватися про`
-
-|||
+|sich kümmern um|турбуватися про|
 |-|-|
 Ich kümmere mich um meine jüngere Schwester | Я турбуюсь про свою молодшу сестру
 Sie kümmert sich um die Organisation des Events | Вона займається організацією заходу
