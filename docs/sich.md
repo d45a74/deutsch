@@ -53,8 +53,10 @@
 
 `турбуватися про`
 
-- Ich kümmere mich um meine jüngere Schwester. _(Я турбуюсь про свою молодшу сестру.)_
-- Sie kümmert sich um die Organisation des Events. _(Вона займається організацією заходу.)_
+- Ich kümmere mich um meine jüngere Schwester  
+    > Я турбуюсь про свою молодшу сестру
+- Sie kümmert sich um die Organisation des Events
+    > Вона займається організацією заходу
 
 ## sich ausruhen von
 
