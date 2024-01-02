@@ -6,13 +6,14 @@
 
 **Якщо обидва додатки виражені іменниками, то додаток у Dat. передує додатку в Akk.**
 
-- Ich schenke der Mutter das Parfüm.
+- Ich schenke <dat>der Mutter</dat> <akk>das Parfüm.</akk>
 - Gib dem Vater die Zeitung!
   
 **Якщо обидва додатки виражені займенниками, то додаток у Akk. передує додаткові в Dat.**
 
-- Ich schenke es ihr. Gib sie ihm!
+- Ich schenke es ihr. Gib sie ihm!  
 **Якщо один із додатків виражений іменником, а інший – займенником (у будь-якому відмінку), то додаток, виражений займенником, має завжди стояти перед додатком, вираженим іменником**
+
 - Ich schenke ihr das Parfüm.
 - Ich schenke es der Mutter.
 - Gib ihm die Zeitung!
