@@ -1,84 +1,91 @@
 
-# Sich
+# Reflexive Verbs in German Grammar
 
-## sich kümmern um
+### sich kümmern um
+`турбуватися про`
 
-??? example "турбуватися про"
-    - Ich kümmere mich um meine jüngere Schwester  
-    {>>Я турбуюсь про свою молодшу сестру<<}
-    - Sie kümmert sich um die Organisation des Events  
-    {>>Вона займається організацією заходу<<}
+- Ich kümmere mich um meine jüngere Schwester  
+_Я турбуюсь про свою молодшу сестру_  
+- Sie kümmert sich um die Organisation des Events  
+_Вона займається організацією заходу_
 
-## sich ausruhen von
+### sich ausruhen von
+`відпочивати від`
 
-!!! example "відпочивати від"
+- Nach der Arbeit ruhe ich mich vom Stress aus  
+_Після роботи я відпочиваю від стресу_  
+- Er ruht sich von der langen Reise aus  
+_Він відпочиває від довгої подорожі_
 
-    - Nach der Arbeit ruhe ich mich vom Stress aus.  
-    Після роботи я відпочиваю від стресу.  
-    - Er ruht sich von der langen Reise aus.  
-    Він відпочиває від довгої подорожі.  
-
-## sich bedanken für
-
+### sich bedanken für
 `подякувати за`
 
-- Ich möchte mich für deine Hilfe bedanken. _(Я хочу подякувати тобі за допомогу.)_
-- Sie bedankte sich herzlich für das Geschenk. _(Вона щиро подякувала за подарунок._)
+- Ich möchte mich für deine Hilfe bedanken  
+_Я хочу подякувати тобі за допомогу_  
+- Sie bedankte sich herzlich für das Geschenk  
+_Вона щиро подякувала за подарунок_
 
-## sich beschweren über
-
+### sich beschweren über
 `скаржитись на`
 
-- Er beschwert sich immer über das Essen im Restaurant. _(Він постійно скаржиться на їжу у ресторані.)_
-- Die Kunden beschwerten sich über den schlechten Service. _(Клієнти скаржилися на поганий сервіс.)_
+- Er beschwert sich immer über das Essen im Restaurant  
+_Він постійно скаржиться на їжу у ресторані_
+- Die Kunden beschwerten sich über den schlechten Service  
+_Клієнти скаржилися на поганий сервіс_
 
-## sich bewerben um
-
+### sich bewerben um
 `подавати заяву на`
 
-- Ich habe mich um den Job als Projektmanager beworben. _(Я подав заяву на посаду менеджера проекту.)_
-- Sie bewirbt sich um ein Stipendium für ihr Studium. _(Вона подає заяву на стипендію для своєї освіти.)_
+- Ich habe mich um den Job als Projektmanager beworben  
+_Я подав заяву на посаду менеджера проекту_  
+- Sie bewirbt sich um ein Stipendium für ihr Studium  
+_Вона подає заяву на стипендію для своєї освіти_
 
-## sich erkundigen nach
-
+### sich erkundigen nach
 `довідуватися про`
 
-- Er erkundigt sich nach dem Weg zum Bahnhof. _(Він дізнається, як дістатися до залізничного вокзалу.)_
-- Sie erkundigt sich nach dem Preis des Tickets. _(Вона дізнається про вартість квитка.)_
+- Er erkundigt sich nach dem Weg zum Bahnhof  
+_Він дізнається, як дістатися до залізничного вокзалу_
+- Sie erkundigt sich nach dem Preis des Tickets  
+_Вона дізнається про вартість квитка_
 
-## sich freuen auf, über
-
+### sich freuen auf, über
 `радіти чекати, радіти про`
 
-- Ich freue mich auf das Wochenende. _(Я радий чекати вихідних.)_
-- Sie freut sich über das gute Ergebnis. _(Вона рада доброму результату.)_
+- Ich freue mich auf das Wochenende.  
+_Я радий чекати вихідних_
+- Sie freut sich über das gute Ergebnis  
+_Вона рада доброму результату_
 
-## sich gewöhnen an
-
+### sich gewöhnen an
 `звикнути до`
 
-- Es dauerte eine Weile, bis ich mich an das neue Umfeld gewöhnt hatte. _(Мені знадобилося трохи часу, щоб звикнути до нового середовища.)_
-- Er gewöhnt sich langsam an den neuen Arbeitsplan. _(Він повільно звикає до нового робочого графіку.)_
+- Es dauerte eine Weile, bis ich mich an das neue Umfeld gewöhnt hatte  
+_Мені знадобилося трохи часу, щоб звикнути до нового середовища_
+- Er gewöhnt sich langsam an den neuen Arbeitsplan  
+_Він повільно звикає до нового робочого графіку_
 
-## sich interessieren für
-
+### sich interessieren für
 `цікавитися чимось`
 
-- Ich interessiere mich sehr für Musik. _(Мене дуже цікавить музика.)_
-- Sie interessiert sich für Geschichte. _(Вона цікавиться історією.)_
+- Ich interessiere mich sehr für Musik  
+_Мене дуже цікавить музика_
+- Sie interessiert sich für Geschichte  
+_Вона цікавиться історією_
 
-## sich streiten um
-
+### sich streiten um
 `сваритися через`
 
-- Die Kinder streiten sich um das Spielzeug. _(Діти сваряться через іграшки.)_
-- Sie streiten sich um die Aufteilung der Kosten. _(Вони сваряться через розподіл витрат.)_
+- Die Kinder streiten sich um das Spielzeug  
+_Діти сваряться через іграшки_  
+- Sie streiten sich um die Aufteilung der Kosten  
+_Вони сваряться через розподіл витрат_
 
-## sich verabreden mit
-
+### sich verabreden mit
 `домовлятися про зустріч з`
 
-- Ich habe mich mit meinem Freund zum Abendessen verabredet. _(Я домовився зі своїм другом про обід.)_
+- Ich habe mich mit meinem Freund zum Abendessen verabredet  
+_Я домовився зі своїм другом про обід_
 
 ## sich verlieben in
 

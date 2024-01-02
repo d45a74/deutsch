@@ -2,20 +2,24 @@ site_name: Deutsch
 theme:
   name: material
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.path
     - navigation.top
-extra_javascript:
-  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
-  - javascripts/tablesort.js
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  - tables
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+extra_css:
+  - stylesheets/extra.css
+nav:
+  - Home: 'README.md'
+  - 'Grammar':
+    - 'Reflexive Verbs': 'reflexive_verbs.md'
+    - 'Styling your docs': 'styling-your-docs.md'
+  - About:
+    - 'License': 'license.md'
+    - 'Release Notes': 'release-notes.md'

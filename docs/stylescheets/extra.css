@@ -1,0 +1,6 @@
+:root, [data-md-color-scheme=default] {
+    --md-code-fg-color: #8345ee;
+    --md-code-bg-color: #fff;
+  }
+
+  em { font-style: normal; margin-left: 30px; }
