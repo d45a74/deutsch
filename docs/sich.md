@@ -4,8 +4,10 @@
 ## sisch kümmern um
 
 !!! example "турбуватися про"
-    - Ich kümmere mich um meine jüngere Schwester {>>Я турбуюсь про свою молодшу сестру<<}
-    - Sie kümmert sich um die Organisation des Events {>>Вона займається організацією заходу<<}
+    - Ich kümmere mich um meine jüngere Schwester  
+{>>Я турбуюсь про свою молодшу сестру<<}
+    - Sie kümmert sich um die Organisation des Events  
+{>>Вона займається організацією заходу<<}
 
 ## sich kümmern um
 
