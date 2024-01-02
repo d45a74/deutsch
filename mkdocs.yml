@@ -18,8 +18,9 @@ extra_css:
 nav:
   - Home: 'README.md'
   - 'Grammar':
-    - 'Reflexive Verbs': 'reflexive_verbs.md'
     - 'Satzergänzungen': 'satzergaanzungen.md'
+    - 'Modalverben': 'modalverben.md'
+    - 'Reflexive Verbs': 'reflexive_verbs.md'
   - Words:
     - 'Januar': 'words_2401.md'
   - Phrases:
