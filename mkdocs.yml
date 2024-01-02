@@ -20,6 +20,9 @@ nav:
   - 'Grammar':
     - 'Reflexive Verbs': 'reflexive_verbs.md'
     - 'Styling your docs': 'styling-your-docs.md'
-  - About:
-    - 'License': 'license.md'
-    - 'Release Notes': 'release-notes.md'
+  - Words:
+    - 'Januar': 'words_2401.md'
+  - Phrases:
+    - 'Januar': 'phrases_2401.md'
+  - Sentenses:
+    - 'Januar': 'sentenses_2401.md'
