@@ -5,9 +5,9 @@
 
 !!! example "турбуватися про"
     - Ich kümmere mich um meine jüngere Schwester  
-{>>Я турбуюсь про свою молодшу сестру<<}
+    {>>Я турбуюсь про свою молодшу сестру<<}
     - Sie kümmert sich um die Organisation des Events  
-{>>Вона займається організацією заходу<<}
+    {>>Вона займається організацією заходу<<}
 
 ## sich kümmern um
 
@@ -22,10 +22,10 @@ Sie kümmert sich um die Organisation des Events | Вона займається
 
 `відпочивати від`
 
-|||
-|-|-|
-Nach der Arbeit ruhe ich mich vom Stress aus. | Після роботи я відпочиваю від стресу.
-Er ruht sich von der langen Reise aus. | Він відпочиває від довгої подорожі.
+- Nach der Arbeit ruhe ich mich vom Stress aus.  
+Після роботи я відпочиваю від стресу.  
+- Er ruht sich von der langen Reise aus.  
+Він відпочиває від довгої подорожі.  
 
 ## sich bedanken für
 
