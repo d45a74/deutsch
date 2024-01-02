@@ -5,7 +5,11 @@ theme:
     primary: custom
 extra_css:
   - stylesheets/extra.css
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - tables

@@ -12,4 +12,4 @@
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
 
-[admonitions](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#inline-blocks-inline-end)
+[admonitions](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#supported-types)
