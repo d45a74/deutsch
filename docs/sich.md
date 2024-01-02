@@ -10,7 +10,7 @@
 Ich kümmere mich um meine jüngere Schwester | Я турбуюсь про свою молодшу сестру
 Sie kümmert sich um die Organisation des Events | Вона займається організацією заходу
 
-## sisch kümmern un {==турбуватися про==} {#sc}
+## sisch kümmern un {==турбуватися про==} {#sich-cummern}
 
 - Ich kümmere mich um meine jüngere Schwester {>>Я турбуюсь про свою молодшу сестру<<}  
 - Sie kümmert sich um die Organisation des Events {++Вона займається організацією заходу++}
