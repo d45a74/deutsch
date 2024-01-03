@@ -145,270 +145,270 @@
 
 ## sich/jemanden beruhigen von
 
-`заспокоюватися від/з кимось`
-
-- Ich versuche mich von der stressigen Arbeit zu beruhigen  
-_Я намагаюсь заспокоїтись від напруженої роботи_  
-- Er beruhigt sich, wenn er mit seiner besten Freundin spricht  
-_Він заспокоюється, коли розмовляє зі своєю найкращою подругою_
+>**заспокоюватися від/з кимось**
+>
+>- Ich versuche mich von der stressigen Arbeit zu beruhigen  
+>_Я намагаюсь заспокоїтись від напруженої роботи_  
+>- Er beruhigt sich, wenn er mit seiner besten Freundin spricht  
+>_Він заспокоюється, коли розмовляє зі своєю найкращою подругою_
 
 ## sich/jemanden beschäftigen mit
 
-`займатися/займатися кимось`
-
-- Ich beschäftige mich gerne mit dem Lesen von Büchern  
-_Я задоволено займаюсь читанням книг_  
-- Sie beschäftigt sich beruflich mit der Entwicklung von Software  
-_Вона професійно займається розробкою програмного забезпечення_
+>**займатися/займатися кимось**
+>
+>- Ich beschäftige mich gerne mit dem Lesen von Büchern  
+>_Я задоволено займаюсь читанням книг_  
+>- Sie beschäftigt sich beruflich mit der Entwicklung von Software  
+>_Вона професійно займається розробкою програмного забезпечення_
 
 ## sich/jemanden erinnern an
 
-`пам'ятати про/пам'ятати когось`
-
-- Ich erinnere mich gerne an die schönen Zeiten meiner Kindheit  
-_Я згадую з задоволенням прекрасні моменти свого дитинства_
-- Er erinnert sich gut an seinen ersten Tag in der neuen Schule  
-_Він добре пам'ятає свій перший день в новій школі_
+>**пам'ятати про/пам'ятати когось**
+>
+>- Ich erinnere mich gerne an die schönen Zeiten meiner Kindheit  
+>_Я згадую з задоволенням прекрасні моменти свого дитинства_
+>- Er erinnert sich gut an seinen ersten Tag in der neuen Schule  
+>_Він добре пам'ятає свій перший день в новій школі_
 
 ## sich/jemanden treffen mit
 
-`зустрічатися/зустрічатися з кимось`
-
-- Ich treffe mich oft mit meinen Freunden im Café.  
-_Я часто зустрічаюся з друзями в кафе_  
-- Sie treffen sich mit ihren Kollegen zum Mittagessen  
-_Вони зустрічаються зі своїми колегами на обід_
+>**зустрічатися/зустрічатися з кимось**
+>
+>- Ich treffe mich oft mit meinen Freunden im Café.  
+>_Я часто зустрічаюся з друзями в кафе_  
+>- Sie treffen sich mit ihren Kollegen zum Mittagessen  
+>_Вони зустрічаються зі своїми колегами на обід_
 
 ## sich/jemanden verabschieden von
 
-`попрощатися з`
-
-- Ich muss mich von meinen Freunden am Flughafen verabschieden  
-_Я повинен попрощатися з друзями в аеропорту_
-- Sie hat sich von ihrem alten Job verabschiedet und eine neue Stelle gefunden  
-_Вона попрощалася зі своєю старою роботою і знайшла нову посаду_
+>**попрощатися з**
+>
+>- Ich muss mich von meinen Freunden am Flughafen verabschieden  
+>_Я повинен попрощатися з друзями в аеропорту_
+>- Sie hat sich von ihrem alten Job verabschiedet und eine neue Stelle gefunden  
+>_Вона попрощалася зі своєю старою роботою і знайшла нову посаду_
 
 ## sich/jemanden verletzen an
 
-`зазнати травми`
-
-- Er hat sich beim Sport an der Schulter verletzt  
-_Він травмував плече під час занять спортом_
-- Sie hat sich am Fuß verletzt, als sie die Treppe hinunterfiel  
-_Вона травмувала ногу, коли вона впала з сходів_
+>**зазнати травми**
+>
+>- Er hat sich beim Sport an der Schulter verletzt  
+>_Він травмував плече під час занять спортом_
+>- Sie hat sich am Fuß verletzt, als sie die Treppe hinunterfiel  
+>_Вона травмувала ногу, коли вона впала з сходів_
 
 ## sich/jemanden/etwas verstehen mit
 
-`розуміти/приймати когось/щось`
-
-- Ich verstehe mich gut mit meinen Kollegen  
-_Я добре розуміюся з колегами_  
-- Sie versteht sich nicht mit ihrem Bruder und hat oft Streit  
-_Вона не розуміється зі своїм братом і часто свариться_
+>**розуміти/приймати когось/щось**
+>
+>- Ich verstehe mich gut mit meinen Kollegen  
+>_Я добре розуміюся з колегами_  
+>- Sie versteht sich nicht mit ihrem Bruder und hat oft Streit  
+>_Вона не розуміється зі своїм братом і часто свариться_
 
 ## sich/jemanden/etwas vorbereiten auf
 
-`готуватися до`
-
-- Ich bereite mich auf die Prüfung vor  
-_Я готуюся до іспиту_
-- Sie bereitet sich auf ihre Reise vor und packt ihren Koffer  
-_Вона готується до поїздки і пакує свій валізу_
+>**готуватися до**
+>
+>- Ich bereite mich auf die Prüfung vor  
+>_Я готуюся до іспиту_
+>- Sie bereitet sich auf ihre Reise vor und packt ihren Koffer  
+>_Вона готується до поїздки і пакує свій валізу_
 
 ## sich aufregen über
 
-`нервуватися через`
-
-- Ich reg mich über den schlechten Service im Restaurant auf  
-_Я нервуюся через поганий сервіс у ресторані_  
-- Sie regt sich über den ständigen Lärm der Nachbarn auf  
-_Вона нервується через постійний шум від сусідів_
+>**нервуватися через**
+>
+>- Ich reg mich über den schlechten Service im Restaurant auf  
+>_Я нервуюся через поганий сервіс у ресторані_  
+>- Sie regt sich über den ständigen Lärm der Nachbarn auf  
+>_Вона нервується через постійний шум від сусідів_
 
 ## sich melden bei
 
-`зв'язатися з кимось`
-
-- Ich werde mich bei dir melden, wenn ich weitere Informationen habe  
-_Я зв'яжуся з тобою, якщо будуть додаткові відомості_  
-- Sie sollte sich beim Arzt melden, um einen Termin zu vereinbaren  
-_Вона повинна зв'язатися з лікарем, щоб запланувати зустріч_
+>**зв'язатися з кимось**
+>
+>- Ich werde mich bei dir melden, wenn ich weitere Informationen habe  
+>_Я зв'яжуся з тобою, якщо будуть додаткові відомості_  
+>- Sie sollte sich beim Arzt melden, um einen Termin zu vereinbaren  
+>_Вона повинна зв'язатися з лікарем, щоб запланувати зустріч_
 
 ## sich/jemanden entschuldigen
 
-`вибачатися`
-
-- Ich muss mich bei dir für mein Verhalten entschuldigen  
-_Я повинен вибачитися перед тобою за свою поведінку_  
-- Er hat sich bei ihr für den Fehler entschuldigt  
-_Він вибачився перед нею за помилку_
+>**вибачатися**
+>
+>- Ich muss mich bei dir für mein Verhalten entschuldigen  
+>_Я повинен вибачитися перед тобою за свою поведінку_  
+>- Er hat sich bei ihr für den Fehler entschuldigt  
+>_Він вибачився перед нею за помилку_
 
 ## sich/jemanden/etwas bewegen
 
-`рухатися/рухати когось/щось`
-
-- Ich bewege mich gerne im Freien und mache regelmäßig Sport  
-_Я задоволено рухаюся на свіжому повітрі і регулярно займаюся спортом_  
-- Sie hat die Möbel im Zimmer bewegt, um mehr Platz zu schaffen  
-_Вона перемістила меблі у кімнаті, щоб звільнити більше місця_
+>**рухатися/рухати когось/щось**
+>
+>- Ich bewege mich gerne im Freien und mache regelmäßig Sport  
+>_Я задоволено рухаюся на свіжому повітрі і регулярно займаюся спортом_  
+>- Sie hat die Möbel im Zimmer bewegt, um mehr Platz zu schaffen  
+>_Вона перемістила меблі у кімнаті, щоб звільнити більше місця_
 
 ## sich/jemanden duschen
 
-`приймати душ`
-
-- Ich dusche mich jeden Morgen, um frisch in den Tag zu starten  
-_Я беру душ кожного ранку, щоб свіжо почати день_  
-- Er duscht sich nach dem Sport, um den Schweiß abzuwaschen  
-_Він бере душ після тренування, щоб змити пот_
+>**приймати душ**
+>
+>- Ich dusche mich jeden Morgen, um frisch in den Tag zu starten  
+>_Я беру душ кожного ранку, щоб свіжо почати день_  
+>- Er duscht sich nach dem Sport, um den Schweiß abzuwaschen  
+>_Він бере душ після тренування, щоб змити пот_
 
 ## sich/jemanden/etwas verteidigen
 
-`захищатися/захищати когось/щось`
-
-- Ich werde mich gegen die Anschuldigungen verteidigen  
-_Я буду захищатися від звинувачень_
-- Sie verteidigt ihre Freunde, wenn sie ungerecht behandelt werden  
-_Вона захищає своїх друзів, коли їм діють несправедливо_
+>**захищатися/захищати когось/щось**
+>
+>- Ich werde mich gegen die Anschuldigungen verteidigen  
+>_Я буду захищатися від звинувачень_
+>- Sie verteidigt ihre Freunde, wenn sie ungerecht behandelt werden  
+>_Вона захищає своїх друзів, коли їм діють несправедливо_
 
 ## sich/jemanden/etwas vorstellen
 
-`уявляти/уявляти когось/щось`
-
-- Ich stelle mir vor, wie mein Traumhaus aussehen wird  
-_Я уявляю, як буде виглядати мій будинок мрії_  
-- Er stellt sich seinen neuen Kollegen vor  
-_Він представляє себе новим колегам_
+>**уявляти/уявляти когось/щось**
+>
+>- Ich stelle mir vor, wie mein Traumhaus aussehen wird  
+>_Я уявляю, як буде виглядати мій будинок мрії_  
+>- Er stellt sich seinen neuen Kollegen vor  
+>_Він представляє себе новим колегам_
 
 ## sich (etwas) abtrocknen
 
-`висушувати себе/щось`
-
-- Nach dem Baden trockne ich mich mit einem Handtuch ab  
-_Після купання я висушую себе рушником_  
-- Sie trocknete die nassen Haare mit einem Föhn ab  
-_Вона висушила вологе волосся феном_
+>**висушувати себе/щось**
+>
+>- Nach dem Baden trockne ich mich mit einem Handtuch ab  
+>_Після купання я висушую себе рушником_  
+>- Sie trocknete die nassen Haare mit einem Föhn ab  
+>_Вона висушила вологе волосся феном_
 
 ## sich etwas anhören
 
-`прослуховувати щось`
-
-- Ich möchte mir gerne die neue Musik anhören  
-_Я хочу послухати нову музику_  
-- Er sollte sich die Meinungen der Experten zu diesem Thema anhören  
-_Він повинен прослухати думки експертів з цієї теми_
+>**прослуховувати щось**
+>
+>- Ich möchte mir gerne die neue Musik anhören  
+>_Я хочу послухати нову музику_  
+>- Er sollte sich die Meinungen der Experten zu diesem Thema anhören  
+>_Він повинен прослухати думки експертів з цієї теми_
 
 ## sich (etwas) ansehen/anschauen
 
-`дивитися/оглядати щось`
-
-- Wir haben uns einen Film im Kino angesehen  
-_Ми переглянули фільм у кінотеатрі_  
-- Sie schaut sich gerne Fotos von ihren Reisen an  
-_Вона залюбки розглядає фотографії зі своїх подорожей_
+>**дивитися/оглядати щось**
+>
+>- Wir haben uns einen Film im Kino angesehen  
+>_Ми переглянули фільм у кінотеатрі_  
+>- Sie schaut sich gerne Fotos von ihren Reisen an  
+>_Вона залюбки розглядає фотографії зі своїх подорожей_
 
 ## sich (etwas) anziehen
 
-`одягати себе/щось`
-
-- Ich ziehe mich warm an, wenn es draußen kalt ist  
-_Я одягаюся тепло, коли на вулиці холодно_  
-- Sie zieht sich für die Party schick an  
-_Вона одягається елегантно на вечірку_
+>**одягати себе/щось**
+>
+>- Ich ziehe mich warm an, wenn es draußen kalt ist  
+>_Я одягаюся тепло, коли на вулиці холодно_  
+>- Sie zieht sich für die Party schick an  
+>_Вона одягається елегантно на вечірку_
 
 ## sich etwas ausdenken
 
-`вигадувати щось`
-
-- Ich muss mir eine Ausrede ausdenken, um die Party zu vermeiden  
-_Мені потрібно вигадати виправдання, щоб уникнути вечірки_  
-- Sie hat sich ein interessantes Konzept für ihr Projekt ausgedacht  
-_Вона вигадала цікаву концепцію для свого проекту_
+>**вигадувати щось**
+>
+>- Ich muss mir eine Ausrede ausdenken, um die Party zu vermeiden  
+>_Мені потрібно вигадати виправдання, щоб уникнути вечірки_  
+>- Sie hat sich ein interessantes Konzept für ihr Projekt ausgedacht  
+>_Вона вигадала цікаву концепцію для свого проекту_
 
 ## sich etwas leisten
 
-`дозволяти собі щось`
-
-- Ich kann es mir nicht leisten, teure Kleidung zu kaufen  
-_Я не можу дозволити собі купувати дорогий одяг_  
-- Sie hat sich endlich den lang ersehnten Urlaub geleistet  
-_Вона нарешті дозволила собі довгоочікувану відпустку_
+>**дозволяти собі щось**
+>
+>- Ich kann es mir nicht leisten, teure Kleidung zu kaufen  
+>_Я не можу дозволити собі купувати дорогий одяг_  
+>- Sie hat sich endlich den lang ersehnten Urlaub geleistet  
+>_Вона нарешті дозволила собі довгоочікувану відпустку_
 
 ## sich etwas merken
 
-`запам'ятовувати щось`
-
-- Kannst du dir bitte diese Informationen für mich merken?  
-_Чи можеш ти запам'ятати цю інформацію для мене?_  
-- Er hat sich den Termin genau gemerkt  
-_Він точно запам'ятав дату_
+>**запам'ятовувати щось**
+>
+>- Kannst du dir bitte diese Informationen für mich merken?  
+>_Чи можеш ти запам'ятати цю інформацію для мене?_  
+>- Er hat sich den Termin genau gemerkt  
+>_Він точно запам'ятав дату_
 
 ## sich (etwas) schminken
 
-`малювати себе/щось`
-
-- Sie schminkt sich gerne vor dem Ausgehen  
-_Вона раді накрасити себе перед виходом_
-- Er schminkt sich für die Theateraufführung als Clown  
-_Він красить себе для театрального виступу у ролі клоуна_
+>**малювати себе/щось**
+>
+>- Sie schminkt sich gerne vor dem Ausgehen  
+>_Вона раді накрасити себе перед виходом_
+>- Er schminkt sich für die Theateraufführung als Clown  
+>_Він красить себе для театрального виступу у ролі клоуна_
 
 ## sich etwas überlegen
 
-`придумувати щось/розмірковувати`
-
-- Wir sollten uns eine Lösung für das Problem überlegen  
-_Ми повинні придумати рішення для цієї проблеми_  
-- Sie überlegt sich, ob sie den Job wechseln soll  
-_Вона розмірковує, чи варто їй змінити роботу_
+>**придумувати щось/розмірковувати**
+>
+>- Wir sollten uns eine Lösung für das Problem überlegen  
+>_Ми повинні придумати рішення для цієї проблеми_  
+>- Sie überlegt sich, ob sie den Job wechseln soll  
+>_Вона розмірковує, чи варто їй змінити роботу_
 
 ## sich (etwas) waschen
 
-`мити себе/щось`
-
-- Ich wasche mich jeden Morgen im Badezimmer  
-_Я миюсь кожного ранку у ванній кімнаті_  
-- Er wäscht sich die Hände, bevor er isst  
-_Він миє руки перед їжею_
+>**мити себе/щось**
+>
+>- Ich wasche mich jeden Morgen im Badezimmer  
+>_Я миюсь кожного ранку у ванній кімнаті_  
+>- Er wäscht sich die Hände, bevor er isst  
+>_Він миє руки перед їжею_
 
 ## sich beeilen
 
-`поспішати`
-
-- Wir müssen uns beeilen, um den Zug zu erreichen  
-_Ми повинні поспішати, щоб встигнути на потяг_  
-- Sie beeilt sich, um pünktlich zur Arbeit zu kommen  
-_Вона поспішає, щоб прийти на роботу вчасно_
+>**поспішати**
+>
+>- Wir müssen uns beeilen, um den Zug zu erreichen  
+>_Ми повинні поспішати, щоб встигнути на потяг_  
+>- Sie beeilt sich, um pünktlich zur Arbeit zu kommen  
+>_Вона поспішає, щоб прийти на роботу вчасно_
 
 ## sich befinden
 
-`знаходитись`
-
-- Das Hotel befindet sich in der Nähe des Strandes  
-_Готель знаходиться поблизу пляжу_
-- Sie befindet sich momentan im Ausland  
-_Вона знаходиться зараз за кордоном_
+>**знаходитись**
+>
+>- Das Hotel befindet sich in der Nähe des Strandes  
+>_Готель знаходиться поблизу пляжу_
+>- Sie befindet sich momentan im Ausland  
+>_Вона знаходиться зараз за кордоном_
 
 ## sich erkälten
 
-`захворіти на застуду`
-
-- Er hat sich im kalten Regen erkältet  
-_Він захворів на застуду під час холодного дощу_  
-- Sie hat sich erkältet und bleibt heute zu Hause  
-_Вона захворіла на застуду і залишається вдома сьогодні_
+>**захворіти на застуду**
+>
+>- Er hat sich im kalten Regen erkältet  
+>_Він захворів на застуду під час холодного дощу_  
+>- Sie hat sich erkältet und bleibt heute zu Hause  
+>_Вона захворіла на застуду і залишається вдома сьогодні_
 
 ## sich irren
 
-`помилятися`
-
-- Entschuldigung, ich habe mich in der Adresse geirrt  
-_Вибачте, я помилився в адресі_  
-- Sie hat sich bei den Prüfungsfragen geirrt  
-_Вона помилилася в питаннях іспиту_
+>**помилятися**
+>
+>- Entschuldigung, ich habe mich in der Adresse geirrt  
+>_Вибачте, я помилився в адресі_  
+>- Sie hat sich bei den Prüfungsfragen geirrt  
+>_Вона помилилася в питаннях іспиту_
 
 ## sich sonnen
 
-`засмагати`
-
-- Im Sommer sonne ich mich gerne am Strand  
-_Влітку я задоволено засмагаю на пляжі_  
-- Er sonnt sich auf dem Balkon, um etwas Bräune zu bekommen  
-_Він засмагає на балконі, щоб набути трохи загару_
+>**засмагати**
+>
+>- Im Sommer sonne ich mich gerne am Strand  
+>_Влітку я задоволено засмагаю на пляжі_  
+>- Er sonnt sich auf dem Balkon, um etwas Bräune zu bekommen  
+>_Він засмагає на балконі, щоб набути трохи загару_

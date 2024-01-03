@@ -15,3 +15,8 @@ Alles hat seine Grenzen|_Усьому є межа_
 Kommt nicht in Frage!|_Не може бути й мови!_
 Ganz im Gegenteil!|_Навпаки ж!_
 Na schön!|_Гаразд, окей!_
+Sehr selten|
+Es ist trüb|
+Es ist bewölkt|
+Ich fühle mich nicht gut|_я себе погано почуваю_
+Ich habe mich erkältet|_Я застудився_

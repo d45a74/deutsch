@@ -15,15 +15,15 @@ markdown_extensions:
   - pymdownx.tilde
 extra_css:
   - stylesheets/extra.css
-nav:
-  - Home: 'README.md'
-  - 'Grammar':
-    - 'Satzergänzungen': 'grammar/satzergaanzungen.md'
-    - 'Modalverben': 'grammar/modalverben.md'
-    - 'Reflexive Verbs': 'grammar/reflexive_verbs.md'
-  - Words:
-    - 'Januar': 'words_2401.md'
-  - Phrases:
-    - 'Januar': 'phrases_2401.md'
-  - Sentenses:
-    - 'Januar': 'sentenses_2401.md'
+# nav:
+#   - Home: 'README.md'
+#   - 'Grammar':
+#     - 'Satzergänzungen': 'grammar/satzergaanzungen.md'
+#     - 'Modalverben': 'grammar/modalverben.md'
+#     - 'Reflexive Verbs': 'grammar/reflexive_verbs.md'
+#   - Words:
+#     - 'Januar': 'words_2401.md'
+#   - Phrases:
+#     - 'Januar': 'phrases_2401.md'
+#   - Sentenses:
+#     - 'Januar': 'sentenses_2401.md'
