@@ -1,8 +1,10 @@
 :root, [data-md-color-scheme=default] {
-    --md-code-fg-color: #8345ee;
+    --md-code-fg-color: rgb(37, 37, 154);
     --md-code-bg-color: #fff;
   }
 
-  em { font-style: normal; margin-left: 30px; }
-  akk {color:blue}
-  dat {color:brown}
+  em {color:darkslategray; margin-left: 30px; }
+  /* em { font-style: normal; margin-left: 30px; } */
+  ak {color:rgb(8, 8, 187)}
+  da {color:rgb(201, 51, 17)}
+  no {color:rgb(47, 167, 0)}

@@ -3,145 +3,145 @@
 
 ## sich kümmern um
 
-`турбуватися про`
-
-- Ich kümmere mich um meine jüngere Schwester  
-_Я турбуюсь про свою молодшу сестру_  
-- Sie kümmert sich um die Organisation des Events  
-_Вона займається організацією заходу_
+>**турбуватися про**
+>
+>- Ich kümmere mich um meine jüngere Schwester  
+>_Я турбуюсь про свою молодшу сестру_
+>- Sie kümmert sich um die Organisation des Events  
+>_Вона займається організацією заходу_
 
 ## sich ausruhen von
 
-`відпочивати від`
-
-- Nach der Arbeit ruhe ich mich vom Stress aus  
-_Після роботи я відпочиваю від стресу_  
-- Er ruht sich von der langen Reise aus  
-_Він відпочиває від довгої подорожі_
+>**відпочивати від**
+>
+>- Nach der Arbeit ruhe ich mich vom Stress aus  
+>_Після роботи я відпочиваю від стресу_  
+>- Er ruht sich von der langen Reise aus  
+>_Він відпочиває від довгої подорожі_
 
 ## sich bedanken für
 
-`подякувати за`
-
-- Ich möchte mich für deine Hilfe bedanken  
-_Я хочу подякувати тобі за допомогу_  
-- Sie bedankte sich herzlich für das Geschenk  
-_Вона щиро подякувала за подарунок_
+>**подякувати за**
+>
+>- Ich möchte mich für deine Hilfe bedanken  
+>_Я хочу подякувати тобі за допомогу_  
+>- Sie bedankte sich herzlich für das Geschenk  
+>_Вона щиро подякувала за подарунок_
 
 ## sich beschweren über
 
-`скаржитись на`
-
-- Er beschwert sich immer über das Essen im Restaurant  
-_Він постійно скаржиться на їжу у ресторані_
-- Die Kunden beschwerten sich über den schlechten Service  
-_Клієнти скаржилися на поганий сервіс_
+>**скаржитись на**
+>
+>- Er beschwert sich immer über das Essen im Restaurant  
+>_Він постійно скаржиться на їжу у ресторані_
+>- Die Kunden beschwerten sich über den schlechten Service  
+>_Клієнти скаржилися на поганий сервіс_
 
 ## sich bewerben um
 
-`подавати заяву на`
-
-- Ich habe mich um den Job als Projektmanager beworben  
-_Я подав заяву на посаду менеджера проекту_  
-- Sie bewirbt sich um ein Stipendium für ihr Studium  
-_Вона подає заяву на стипендію для своєї освіти_
+>**подавати заяву на**
+>
+>- Ich habe mich um den Job als Projektmanager beworben  
+>_Я подав заяву на посаду менеджера проекту_  
+>- Sie bewirbt sich um ein Stipendium für ihr Studium  
+>_Вона подає заяву на стипендію для своєї освіти_
 
 ## sich erkundigen nach
 
-`довідуватися про`
-
-- Er erkundigt sich nach dem Weg zum Bahnhof  
-_Він дізнається, як дістатися до залізничного вокзалу_
-- Sie erkundigt sich nach dem Preis des Tickets  
-_Вона дізнається про вартість квитка_
+>**довідуватися про**
+>
+>- Er erkundigt sich nach dem Weg zum Bahnhof  
+>_Він дізнається, як дістатися до залізничного вокзалу_
+>- Sie erkundigt sich nach dem Preis des Tickets  
+>_Вона дізнається про вартість квитка_
 
 ## sich freuen auf, über
 
-`радіти чекати, радіти про`
-
-- Ich freue mich auf das Wochenende.  
-_Я радий чекати вихідних_
-- Sie freut sich über das gute Ergebnis  
-_Вона рада доброму результату_
+>**радіти чекати, радіти про**
+>
+>- Ich freue mich auf das Wochenende.  
+>_Я радий чекати вихідних_
+>- Sie freut sich über das gute Ergebnis  
+>_Вона рада доброму результату_
 
 ## sich gewöhnen an
 
-`звикнути до`
-
-- Es dauerte eine Weile, bis ich mich an das neue Umfeld gewöhnt hatte  
-_Мені знадобилося трохи часу, щоб звикнути до нового середовища_
-- Er gewöhnt sich langsam an den neuen Arbeitsplan  
-_Він повільно звикає до нового робочого графіку_
+>**звикнути до**
+>
+>- Es dauerte eine Weile, bis ich mich an das neue Umfeld gewöhnt hatte  
+>_Мені знадобилося трохи часу, щоб звикнути до нового середовища_
+>- Er gewöhnt sich langsam an den neuen Arbeitsplan  
+>_Він повільно звикає до нового робочого графіку_
 
 ## sich interessieren für
 
-`цікавитися чимось`
-
-- Ich interessiere mich sehr für Musik  
-_Мене дуже цікавить музика_
-- Sie interessiert sich für Geschichte  
-_Вона цікавиться історією_
+>**цікавитися чимось**
+>
+>- Ich interessiere mich sehr für Musik  
+>_Мене дуже цікавить музика_
+>- Sie interessiert sich für Geschichte  
+>_Вона цікавиться історією_
 
 ## sich streiten um
 
-`сваритися через`
-
-- Die Kinder streiten sich um das Spielzeug  
-_Діти сваряться через іграшки_  
-- Sie streiten sich um die Aufteilung der Kosten  
-_Вони сваряться через розподіл витрат_
+>**сваритися через**
+>
+>- Die Kinder streiten sich um das Spielzeug  
+>_Діти сваряться через іграшки_  
+>- Sie streiten sich um die Aufteilung der Kosten  
+>_Вони сваряться через розподіл витрат_
 
 ## sich verabreden mit
 
-`домовлятися про зустріч з`
-
-- Ich habe mich mit meinem Freund zum Abendessen verabredet  
-_Я домовився зі своїм другом про обід_
+>**домовлятися про зустріч з**
+>
+>- Ich habe mich mit meinem Freund zum Abendessen verabredet  
+>_Я домовився зі своїм другом про обід_
 
 ## sich verlieben in
 
-`закохуватися у`
-
-- Sie hat sich in ihren neuen Nachbarn verliebt  
-_Вона закохалася у свого нового сусіда_
-- Er hat sich sofort in das Gemälde verliebt  
-_Він миттєво закохався у картину_
+>**закохуватися у**
+>
+>- Sie hat sich in ihren neuen Nachbarn verliebt  
+>_Вона закохалася у свого нового сусіда_
+>- Er hat sich sofort in das Gemälde verliebt  
+>_Він миттєво закохався у картину_
 
 ## sich wundern über
 
-`дивуватися чому-небудь`
-
-- Ich wundere mich über das plötzliche Wetter  
-_Я дивуюся з приводу раптової погоди_
-- Er wundert sich über ihren plötzlichen Sinneswandel  
-_Він дивується через її раптову зміну настрою_
+>**дивуватися чому-небудь**
+>
+>- Ich wundere mich über das plötzliche Wetter  
+>_Я дивуюся з приводу раптової погоди_
+>- Er wundert sich über ihren plötzlichen Sinneswandel  
+>_Він дивується через її раптову зміну настрою_
 
 ## sich/jemanden/etwas ändern an
 
-`змінювати щось у собі/в когось/щось`
-
-- Ich möchte etwas an mir ändern und gesünder leben  
-_Я хочу змінити щось у собі і жити здоровіше_
-- Sie hat sich seit der Reise positiv geändert  
-_Вона змінилася до кращого після поїздки_
+>**змінювати щось у собі/в когось/щось**
+>
+>- Ich möchte etwas an mir ändern und gesünder leben  
+>_Я хочу змінити щось у собі і жити здоровіше_
+>- Sie hat sich seit der Reise positiv geändert  
+>_Вона змінилася до кращого після поїздки_
 
 ## sich/jemanden/etwas anmelden für
 
-`записуватися на щось/когось`
-
-- Ich habe mich für den Deutschkurs angemeldet  
-_Я записався на курс німецької мови_
-- Sie haben ihre Kinder für den Schwimmkurs angemeldet  
-_Вони записали своїх дітей на курс плавання_
+>**записуватися на щось/когось**
+>
+>- Ich habe mich für den Deutschkurs angemeldet  
+>_Я записався на курс німецької мови_
+>- Sie haben ihre Kinder für den Schwimmkurs angemeldet  
+>_Вони записали своїх дітей на курс плавання_
 
 ## sich/jemanden ärgern über
 
-`злитися на/з кимось через щось`
-
-- Ich ärgere mich über die ständigen Verspätungen der Bahn  
-_Я злюсь на постійні затримки поїздів_  
-- Sie ärgert sich über seinen unhöflichen Kommentar  
-_Вона злюиться на його безвідповідний коментар_
+>**злитися на/з кимось через щось**
+>
+>- Ich ärgere mich über die ständigen Verspätungen der Bahn  
+>_Я злюсь на постійні затримки поїздів_  
+>- Sie ärgert sich über seinen unhöflichen Kommentar  
+>_Вона злюиться на його безвідповідний коментар_
 
 ## sich/jemanden beruhigen von
 
