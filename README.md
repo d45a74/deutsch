@@ -8,6 +8,7 @@
 
 - [admonitions](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#supported-types)
 - [formatting](https://squidfunk.github.io/mkdocs-material/reference/formatting/#usage)
+- [charts.io](https://quickchart.io)
 
 ``` bash
  docker volume create --name mkdocs -d local -o type=none -o o=bind -o device="$PWD"

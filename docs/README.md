@@ -11,7 +11,12 @@
 
 ## By week
 
-![test](https://quickchart.io/chart?c={type:'bar',data:{labels:['monday', 'tuesday', 'wednesday', 'thurthday', 'friday', 'saturday', 'sunday'], datasets:[{label:'goal',data:[5.53, 11.06, 16.59, 22.12, 27.65, 33.18, 38.71]},{label:'real',data:[0,7.23, 7.23]}]}})
+![chat](./test/week01.png)
+
+![chat](./test/week02.png)
+
+![chat](./test/week03.png)
+
 
 ```bash
 curl --location 'https://quickchart.io/chart' \
