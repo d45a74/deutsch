@@ -31,6 +31,8 @@ schwer | _важкий_
 das Schloss | _зАмок_
 besichtigen | _переглянути_
 die Krakelei | _недбалий почерк_
+das Flugzeug | _літак_
+die Flugzeuge | _літаки_
 
 ## next
 

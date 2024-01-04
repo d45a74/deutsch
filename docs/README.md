@@ -9,8 +9,55 @@
     Хтось вдома залишив свою дитину,  
     А хтось і взагалі життя віддав
 
-# Walking
-
 ## By week
 
-![test](https://quickchart.io/chart?c=%7B%0A%20%20type%3A%20%27bar%27%2C%0A%20%20data%3A%20%7B%0A%20%20%20%20labels%3A%20%5B%27January%27%2C%20%27February%27%2C%20%27March%27%2C%20%27April%27%2C%20%27May%27%2C%20%27June%27%2C%20%27July%27%5D%2C%0A%20%20%20%20datasets%3A%20%5B%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20label%3A%20%27Dataset%201%27%2C%0A%20%20%20%20%20%20%20%20backgroundColor%3A%20%27rgb(255%2C%2099%2C%20132)%27%2C%0A%20%20%20%20%20%20%20%20data%3A%20%5B52%2C%20-93%2C%20-25%2C%20-67%2C%2051%2C%20-97%2C%209%5D%2C%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20label%3A%20%27Dataset%202%27%2C%0A%20%20%20%20%20%20%20%20backgroundColor%3A%20%27rgb(54%2C%20162%2C%20235)%27%2C%0A%20%20%20%20%20%20%20%20data%3A%20%5B17%2C%2013%2C%20-38%2C%2089%2C%20-10%2C%2075%2C%20-52%5D%2C%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20label%3A%20%27Dataset%203%27%2C%0A%20%20%20%20%20%20%20%20backgroundColor%3A%20%27rgb(75%2C%20192%2C%20192)%27%2C%0A%20%20%20%20%20%20%20%20data%3A%20%5B-84%2C%2033%2C%2080%2C%2075%2C%20-83%2C%20-34%2C%20-50%5D%2C%0A%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%5D%2C%0A%20%20%7D%2C%0A%20%20options%3A%20%7B%0A%20%20%20%20title%3A%20%7B%0A%20%20%20%20%20%20display%3A%20true%2C%0A%20%20%20%20%20%20text%3A%20%27Chart.js%20Bar%20Chart%20-%20Stacked%27%2C%0A%20%20%20%20%7D%2C%0A%20%20%20%20scales%3A%20%7B%0A%20%20%20%20%20%20xAxes%3A%20%5B%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20stacked%3A%20true%2C%0A%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%20%20yAxes%3A%20%5B%0A%20%20%20%20%20%20%20%20%7B%0A%20%20%20%20%20%20%20%20%20%20stacked%3A%20true%2C%0A%20%20%20%20%20%20%20%20%7D%2C%0A%20%20%20%20%20%20%5D%2C%0A%20%20%20%20%7D%2C%0A%20%20%7D%2C%0A%7D%0A)
+![test](https://quickchart.io/chart?c={type:'bar',data:{labels:['monday', 'tuesday', 'wednesday', 'thurthday', 'friday', 'saturday', 'sunday'], datasets:[{label:'goal',data:[5.53, 11.06, 16.59, 22.12, 27.65, 33.18, 38.71]},{label:'real',data:[0,7.23, 7.23]}]}})
+
+```bash
+curl --location 'https://quickchart.io/chart' \
+--header 'Content-Type: application/json' \
+--data '{
+    "version": "2",
+    "backgroundColor": "transparent",
+    "width": 500,
+    "height": 300,
+    "devicePixelRatio": 1.0,
+    "format": "png",
+    "chart": {
+        "type": "bar",
+        "data": {
+            "labels": [
+                "monday",
+                "tuesday",
+                "wednesday",
+                "thurthday",
+                "friday",
+                "saturday",
+                "sunday"
+            ],
+            "datasets": [
+                {
+                    "label": "goal",
+                    "data": [
+                        5.53,
+                        11.06,
+                        16.59,
+                        22.12,
+                        27.65,
+                        33.18,
+                        38.71
+                    ]
+                },
+                {
+                    "label": "real",
+                    "data": [
+                        0,
+                        7.23,
+                        7.23
+                    ]
+                }
+            ]
+        }
+    }
+}'
+```
